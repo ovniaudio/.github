@@ -1,13 +1,12 @@
 # OVNI Audio 🛸
 
-**Free, open-source spatial-audio effect plugins for macOS.**
-Simple interface, pro sound backed by real physics — HRTF, Doppler, physical reverberation.
+**Free, open-source spatial audio plug-ins — and one visual synth.**
+Simple interfaces, pro sound backed by real physics: HRTF, Doppler, physical reverberation. No "3D" we can't hear.
 
-**[↓ Download the catalog](https://github.com/ovniaudio/ovni/releases/latest)** · **[ovniaudio.com](https://ovniaudio.com)**
+- **[ORBIT](https://github.com/ovniaudio/orbita)** — binaural movement engine: place a sound around your head, orbit it, or fly it past with real Doppler. VST3/AU on macOS, VST3 on Windows.
+- **[SUPERNOVA](https://ovniaudio.com/supernova)** — audio-reactive visual synth: an image or a video becomes 262,144 GPU particles that move with the sound. Plug-in and standalone Mac app, macOS only.
+- **[The catalog](https://github.com/ovniaudio/ovni)** — PULSAR, NEBULA, DUST, HALO, HORIZON and AURORA are built and come back out in waves.
 
-### Plugins
+**AGPLv3.** The code is free forever and anyone can build it; the ready-made installers are free to download until **November 23, 2026**, and paid after that (US$15 for the pack). The macOS installers are signed and notarized by Apple.
 
-- **[ORBIT](https://github.com/ovniaudio/orbita)** — the binaural movement engine the whole family is born from: place sound in real 3D, orbit it, fly it past.
-- **[The OVNI catalog](https://github.com/ovniaudio/ovni)** — six more: PULSAR, NEBULA, DUST, HALO, HORIZON, AURORA.
-
-All seven ship in one download. VST3 + AU · universal for macOS 11+ (Apple Silicon + Intel) · **AGPLv3** · Windows soon.
+**[↓ Download](https://ovniaudio.com)** · [ovniaudio.com](https://ovniaudio.com) · hello@ovniaudio.com
